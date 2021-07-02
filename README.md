@@ -1,4 +1,6 @@
-# Table of contents
+# Mainly general knowledge
+
+## Table of contents
 
 1. [Binomial distribution](notebooks/binomial_distribution.ipynb), tags: `distribution`, `probability`
 1. [Covariance matrix](notebooks/covariance_matrix.ipynb), tags: `statistics`
