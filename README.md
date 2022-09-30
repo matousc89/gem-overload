@@ -9,5 +9,4 @@
 1. [Monte carlo integration](notebooks/monte-carlo-integration.ipynb), tags: `integration`
 1. [Pi number estimation](notebooks/pi_number.ipynb), tags: `history`, `calculation`
 1. [Xi square](notebooks/xi_square.ipynb), tags: `distribution`
-
-
+1. [Combinatorial explosion](notebook/combinatorial_explosion.ipynb), tags: `combinatorics`, `general knowledge`
